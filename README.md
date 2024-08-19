@@ -1,29 +1,11 @@
-## Hi there 👋
+## Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIjjS&count_bg=%234A75DB&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![injaesong](http://mazassumnida.wtf/api/v2/generate_badge?boj=injaesong)](https://solved.ac/injaesong)
 
-<h3 align="center">✨Highly interested in..✨</h3>
-<div align="center>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&style=flat"/></a>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=Spring-Data-JPA&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/MySQL 8-4479A1?style=flat-square&logo=MySQL&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
-</div>
+## ✨I'm highly interested in..✨
+[![My Skills](https://skillicons.dev/icons?i=java,gradle,spring,hibernate,mysql,aws,docker,github,githubactions,git)](https://skillicons.dev)
 
-<!--
-**IjjS/IjjS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱I'm also interested in...🌱
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,jenkins,kotlin)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭I can work with..🔭
+[![My Skills](https://skillicons.dev/icons?i=js,react,sass,gitlab,matlab,opencv)](https://skillicons.dev)
