@@ -1,4 +1,4 @@
-## Hi there 👋 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=purple&label=hits&size=small)](https://myhits.vercel.app)
+## Hi there 👋 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FIjjS?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 [![injaesong](http://mazassumnida.wtf/api/v2/generate_badge?boj=injaesong)](https://solved.ac/injaesong)
 
